@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+  body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        table {
+            border: 1px solid black;
+            border-collapse: collapse;
+            margin: 20px auto;
+            padding: 1px;
+        }
+        td, th {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        .middle {
+            margin-top: 20px;
+        }
+        .center {
+            text-align: center;
+        }
+        .right {
+            text-align: right;
+        }
+        .green {
+            background-color: green;
+            color: white;
+        }
+        .blue {
+            background-color: blue;
+            color: white;
+        }
